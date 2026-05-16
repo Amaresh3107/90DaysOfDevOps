@@ -173,20 +173,9 @@ A day-by-day index of the complete 90-day DevOps challenge. Click any day to jum
 
 ## Quick Start
 
-1. Fork this repository
-2. Clone your fork
-3. Navigate to `2026/day-01/` and start
-4. Complete one day at a time
-5. Commit and push your work daily
+1. Navigate to `journey/day-01/` and start
+2. Complete one day at a time
+3. Commit and push your work daily
 
-## Reference Projects
-
-| Project | Used In | Description |
-|---------|---------|-------------|
-| [observability-for-devops](https://github.com/LondheShubham153/observability-for-devops) | Days 73-77 | Prometheus, Grafana, Loki, Promtail, OTEL Collector in Docker Compose |
-| [AI-BankApp-DevOps](https://github.com/TrainWithShubham/AI-BankApp-DevOps/tree/feat/gitops) | Days 78-86 | Spring Boot + MySQL + Ollama AI with Terraform, K8s manifests, ArgoCD, GitHub Actions GitOps |
-| [agentic-ai-for-devops](https://github.com/TrainWithShubham/agentic-ai-for-devops) | Days 87-89 | LangChain agents, MCP, Docker/K8s/CI tools, KubeHealer |
-
----
 
 `#90DaysOfDevOps` `#DevOpsKaJosh` `#TrainWithShubham`
