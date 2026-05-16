@@ -1,5 +1,5 @@
 # 🚀 90DaysOfDevOps
-### Learn • Build • Practice • Become Job-Ready
+### Learn • Build • Practice • Stay Consistent
 
 Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
 
@@ -7,6 +7,17 @@ This repository is designed to help you **build real DevOps skills step by step 
 
 This is not a theory-heavy course.  
 This is a **discipline + execution challenge**.
+
+---
+
+## 🎯 My Goal
+
+I started this challenge to build real DevOps skills through consistency, hands-on practice, and public learning.
+
+Currently balancing:
+- Full-time job at Amazon
+- Daily DevOps learning
+- Building discipline and execution mindset
 
 ---
 
@@ -106,6 +117,16 @@ Even **30–60 minutes per day** is enough if done honestly.
 
 ---
 
+## 📈 Progress
+
+- [ ] Day 01
+- [ ] Day 02
+- [ ] Day 03
+- [ ] Day 04
+- [ ] Day 05
+
+---
+
 ## 🌍 Learn in Public
 
 Share your progress on LinkedIn:
@@ -127,4 +148,3 @@ One day at a time.
 One commit at a time.
 
 Happy Learning  
-**TrainWithShubham**
