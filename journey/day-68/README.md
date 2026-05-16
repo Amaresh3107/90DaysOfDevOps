@@ -228,7 +228,7 @@ Create `day-68-ansible-intro.md` with:
 ---
 
 ## Submission
-1. Add `day-68-ansible-intro.md` to `2026/day-68/`
+1. Add `day-68-ansible-intro.md` to `journey/day-68/`
 2. Commit and push to your fork
 
 ---

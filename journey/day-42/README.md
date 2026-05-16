@@ -106,7 +106,7 @@ Create `day-42-runners.md` with:
 ---
 
 ## Submission
-1. Add `day-42-runners.md` to `2026/day-42/`
+1. Add `day-42-runners.md` to `journey/day-42/`
 2. Commit and push to your fork
 
 ---

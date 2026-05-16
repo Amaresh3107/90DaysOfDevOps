@@ -137,7 +137,7 @@ Create `day-47-advanced-triggers.md` with:
 ---
 
 ## Submission
-1. Add `day-47-advanced-triggers.md` to `2026/day-47/`
+1. Add `day-47-advanced-triggers.md` to `journey/day-47/`
 2. Commit and push to your fork
 
 ---

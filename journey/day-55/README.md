@@ -104,7 +104,7 @@ Create `day-55-persistent-volumes.md` with:
 ---
 
 ## Submission
-1. Add `day-55-persistent-volumes.md` to `2026/day-55/`
+1. Add `day-55-persistent-volumes.md` to `journey/day-55/`
 2. Commit and push to your fork
 
 ---

@@ -232,7 +232,7 @@ These are questions you **will** face in interviews and during real incidents.
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository
-2. Navigate to the `2026/day-07/` folder
+2. Navigate to the `journey/day-07/` folder
 3. Add your `day-07-linux-fs-and-scenarios.md` file
 4. Commit and push your changes to your fork
 

@@ -1,4 +1,4 @@
-# 90 Days of DevOps -- 2026 Cohort
+# 90 Days of DevOps -- journey Cohort
 
 A day-by-day index of the complete 90-day DevOps challenge. Click any day to jump to its tasks.
 

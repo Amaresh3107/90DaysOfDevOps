@@ -393,7 +393,7 @@ Create `day-70-variables-loops.md` with:
 ---
 
 ## Submission
-1. Add `day-70-variables-loops.md` to `2026/day-70/`
+1. Add `day-70-variables-loops.md` to `journey/day-70/`
 2. Commit and push to your fork
 
 ---

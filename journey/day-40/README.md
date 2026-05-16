@@ -88,7 +88,7 @@ Create `day-40-first-workflow.md` with:
 ---
 
 ## Submission
-1. Add `day-40-first-workflow.md` to `2026/day-40/`
+1. Add `day-40-first-workflow.md` to `journey/day-40/`
 2. Commit and push to your fork
 
 ---

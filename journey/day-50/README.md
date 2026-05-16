@@ -200,7 +200,7 @@ Create `day-50-k8s-setup.md` with:
 ---
 
 ## Submission
-1. Add `day-50-k8s-setup.md` to `2026/day-50/`
+1. Add `day-50-k8s-setup.md` to `journey/day-50/`
 2. Commit and push to your fork
 
 ---

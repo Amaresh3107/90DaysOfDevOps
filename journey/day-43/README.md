@@ -81,7 +81,7 @@ Create `day-43-jobs-steps.md` with:
 ---
 
 ## Submission
-1. Add `day-43-jobs-steps.md` to `2026/day-43/`
+1. Add `day-43-jobs-steps.md` to `journey/day-43/`
 2. Commit and push to your fork
 
 ---

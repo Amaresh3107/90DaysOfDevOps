@@ -79,7 +79,7 @@ Write in your notes: What is the difference between a named volume and a bind mo
 ---
 
 ## Submission
-1. Add your `day-32-volumes-networking.md` to `2026/day-32/`
+1. Add your `day-32-volumes-networking.md` to `journey/day-32/`
 2. Commit and push to your fork
 
 ---

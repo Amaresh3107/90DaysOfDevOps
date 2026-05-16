@@ -233,7 +233,7 @@ Create `day-51-pods.md` with:
 ---
 
 ## Submission
-1. Add `day-51-pods.md` and your YAML files to `2026/day-51/`
+1. Add `day-51-pods.md` and your YAML files to `journey/day-51/`
 2. Commit and push to your fork
 
 ---

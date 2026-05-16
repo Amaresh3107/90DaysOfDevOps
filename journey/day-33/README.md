@@ -75,7 +75,7 @@ Practice and document these:
 ---
 
 ## Submission
-1. Add your compose files and `day-33-compose.md` to `2026/day-33/`
+1. Add your compose files and `day-33-compose.md` to `journey/day-33/`
 2. Commit and push to your fork
 
 ---

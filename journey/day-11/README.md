@@ -195,7 +195,7 @@ In real DevOps scenarios, you need proper file ownership for:
 ---
 
 ## Submission
-1. Navigate to `2026/day-11/` folder
+1. Navigate to `journey/day-11/` folder
 2. Add `day-11-file-ownership.md` with screenshots
 3. Commit and push to your fork
 

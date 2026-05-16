@@ -373,7 +373,7 @@ Create `day-87-agentic-ai-intro.md` with:
 ---
 
 ## Submission
-1. Add `day-87-agentic-ai-intro.md` to `2026/day-87/`
+1. Add `day-87-agentic-ai-intro.md` to `journey/day-87/`
 2. Commit and push to your fork
 
 ---

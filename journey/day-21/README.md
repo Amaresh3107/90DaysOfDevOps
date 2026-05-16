@@ -124,7 +124,7 @@ Your cheat sheet should be:
 ---
 
 ## Submission
-1. Add your `shell_scripting_cheatsheet.md` to `2026/day-21/`
+1. Add your `shell_scripting_cheatsheet.md` to `journey/day-21/`
 2. Commit and push to your fork
 
 ---

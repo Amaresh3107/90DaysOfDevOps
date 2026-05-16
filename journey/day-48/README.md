@@ -147,7 +147,7 @@ Create `day-48-actions-project.md` with:
 ---
 
 ## Submission
-1. Add `day-48-actions-project.md` to `2026/day-48/`
+1. Add `day-48-actions-project.md` to `journey/day-48/`
 2. Commit and push to your fork
 
 ---

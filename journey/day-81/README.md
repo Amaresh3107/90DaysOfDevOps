@@ -323,7 +323,7 @@ Create `day-81-eks-intro.md` with:
 ---
 
 ## Submission
-1. Add `day-81-eks-intro.md` to `2026/day-81/`
+1. Add `day-81-eks-intro.md` to `journey/day-81/`
 2. Commit and push to your fork
 
 ---

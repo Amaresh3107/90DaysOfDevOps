@@ -80,7 +80,7 @@ Explore and try these — add the ones you find useful to your `git-commands.md`
 ---
 
 ## Submission
-1. Add your `day-26-notes.md` to `2026/day-26/`
+1. Add your `day-26-notes.md` to `journey/day-26/`
 2. Update `git-commands.md` with `gh` commands — this completes your Git & GitHub reference from Days 22–26
 3. Push to your fork
 

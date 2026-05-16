@@ -98,7 +98,7 @@ Create `day-54-configmaps-secrets.md` with:
 ---
 
 ## Submission
-1. Add `day-54-configmaps-secrets.md` to `2026/day-54/`
+1. Add `day-54-configmaps-secrets.md` to `journey/day-54/`
 2. Commit and push to your fork
 
 ---

@@ -32,7 +32,7 @@ Take a **one-day pause** to consolidate everything from Days 01â€“11 so you donâ
 - Small wins: one screenshot of a command rerun + 5 bullet notes is enough.
 
 ## Submission
-1. Navigate to `2026/day-12/`  
+1. Navigate to `journey/day-12/`  
 2. Add `day-12-revision.md` with your bullets and answers  
 3. Commit and push to your fork
 

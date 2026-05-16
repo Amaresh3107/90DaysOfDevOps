@@ -86,7 +86,7 @@ Update your `git-commands.md` to cover everything from Days 22–25:
 ---
 
 ## Submission
-1. Add your `day-25-notes.md` to `2026/day-25/`
+1. Add your `day-25-notes.md` to `journey/day-25/`
 2. Update `git-commands.md` — commit and push
 3. Push to your fork
 

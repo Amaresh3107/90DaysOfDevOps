@@ -126,7 +126,7 @@ Create `day-09-user-management.md`:
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository
-2. Navigate to `2026/day-09/` folder
+2. Navigate to `journey/day-09/` folder
 3. Add your `day-09-user-management.md` with screenshots
 4. Commit and push
 

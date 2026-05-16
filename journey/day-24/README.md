@@ -88,7 +88,7 @@ You know how to branch and push to GitHub. Now it's time to learn how branches c
 ---
 
 ## Submission
-1. Add your `day-24-notes.md` to `2026/day-24/`
+1. Add your `day-24-notes.md` to `journey/day-24/`
 2. Update `git-commands.md` with all new commands and commit
 3. Push to your fork
 

@@ -312,7 +312,7 @@ Create `day-67-terraweek-capstone.md` with:
 ---
 
 ## Submission
-1. Add `day-67-terraweek-capstone.md` to `2026/day-67/`
+1. Add `day-67-terraweek-capstone.md` to `journey/day-67/`
 2. Commit and push to your fork
 
 ---

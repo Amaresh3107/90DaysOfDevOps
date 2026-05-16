@@ -80,7 +80,7 @@ Create `day-36-docker-project.md` with:
 ---
 
 ## Submission
-1. Add all project files and `day-36-docker-project.md` to `2026/day-36/`
+1. Add all project files and `day-36-docker-project.md` to `journey/day-36/`
 2. Commit and push to your fork
 
 ---

@@ -414,7 +414,7 @@ Create `day-71-roles-templates-vault.md` with:
 ---
 
 ## Submission
-1. Add `day-71-roles-templates-vault.md` to `2026/day-71/`
+1. Add `day-71-roles-templates-vault.md` to `journey/day-71/`
 2. Commit and push to your fork
 
 ---

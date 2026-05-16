@@ -87,7 +87,7 @@ Create `day-15-networking-concepts.md` with:
 ---
 
 ## Submission
-1. Add `day-15-networking-concepts.md` to `2026/day-15/`
+1. Add `day-15-networking-concepts.md` to `journey/day-15/`
 2. Commit and push to your fork
 
 ---

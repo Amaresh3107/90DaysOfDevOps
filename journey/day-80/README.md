@@ -499,7 +499,7 @@ Create `day-80-helm-project.md` with:
 ---
 
 ## Submission
-1. Add `day-80-helm-project.md` to `2026/day-80/`
+1. Add `day-80-helm-project.md` to `journey/day-80/`
 2. Commit and push to your fork
 
 ---

@@ -85,7 +85,7 @@ Create `day-45-docker-cicd.md` with:
 ---
 
 ## Submission
-1. Add `day-45-docker-cicd.md` to `2026/day-45/`
+1. Add `day-45-docker-cicd.md` to `journey/day-45/`
 2. Commit and push to your fork
 
 ---

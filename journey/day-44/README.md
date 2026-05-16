@@ -86,7 +86,7 @@ Create `day-44-secrets-artifacts.md` with:
 ---
 
 ## Submission
-1. Add `day-44-secrets-artifacts.md` to `2026/day-44/`
+1. Add `day-44-secrets-artifacts.md` to `journey/day-44/`
 2. Commit and push to your fork
 
 ---

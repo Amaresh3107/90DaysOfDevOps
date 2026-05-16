@@ -115,7 +115,7 @@ Create `day-59-helm.md` with:
 ---
 
 ## Submission
-1. Add `day-59-helm.md` and `custom-values.yaml` to `2026/day-59/`
+1. Add `day-59-helm.md` and `custom-values.yaml` to `journey/day-59/`
 2. Commit and push to your fork
 
 ---

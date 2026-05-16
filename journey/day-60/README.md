@@ -114,7 +114,7 @@ Create `day-60-capstone.md` with:
 ---
 
 ## Submission
-1. Add `day-60-capstone.md` to `2026/day-60/`
+1. Add `day-60-capstone.md` to `journey/day-60/`
 2. Commit and push to your fork
 
 ---

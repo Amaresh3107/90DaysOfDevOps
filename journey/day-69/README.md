@@ -335,7 +335,7 @@ Create `day-69-playbooks.md` with:
 ---
 
 ## Submission
-1. Add `day-69-playbooks.md` to `2026/day-69/`
+1. Add `day-69-playbooks.md` to `journey/day-69/`
 2. Commit and push to your fork
 
 ---

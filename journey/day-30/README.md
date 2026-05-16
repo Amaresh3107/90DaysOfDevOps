@@ -77,7 +77,7 @@ Check `docker ps -a` after each step — observe the state changes.
 ---
 
 ## Submission
-1. Add your `day-30-images.md` to `2026/day-30/`
+1. Add your `day-30-images.md` to `journey/day-30/`
 2. Commit and push to your fork
 
 ---

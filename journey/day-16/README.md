@@ -89,7 +89,7 @@ Create `day-16-shell-scripting.md` with:
 ---
 
 ## Submission
-1. Add your scripts and `day-16-shell-scripting.md` to `2026/day-16/`
+1. Add your scripts and `day-16-shell-scripting.md` to `journey/day-16/`
 2. Commit and push to your fork
 
 ---

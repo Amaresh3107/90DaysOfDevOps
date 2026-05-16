@@ -336,7 +336,7 @@ Create `day-74-exporters-grafana.md` with:
 ---
 
 ## Submission
-1. Add `day-74-exporters-grafana.md` to `2026/day-74/`
+1. Add `day-74-exporters-grafana.md` to `journey/day-74/`
 2. Commit and push to your fork
 
 ---

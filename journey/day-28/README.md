@@ -119,7 +119,7 @@ Teaching is the best test of understanding.
 ---
 
 ## Submission
-1. Add your `day-28-notes.md` to `2026/day-28/`
+1. Add your `day-28-notes.md` to `journey/day-28/`
 2. Push to your fork
 3. Make sure all previous days are pushed and up to date
 

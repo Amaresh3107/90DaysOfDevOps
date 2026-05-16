@@ -31,7 +31,7 @@ Create `log_rotate.sh` that:
 ### Task 2: Server Backup Script
 Create `backup.sh` that:
 1. Takes a source directory and backup destination as arguments
-2. Creates a timestamped `.tar.gz` archive (e.g., `backup-2026-02-08.tar.gz`)
+2. Creates a timestamped `.tar.gz` archive (e.g., `backup-journey-02-08.tar.gz`)
 3. Verifies the archive was created successfully
 4. Prints archive name and size
 5. Deletes backups older than 14 days from the destination
@@ -87,7 +87,7 @@ Create `day-19-project.md` with:
 ---
 
 ## Submission
-1. Add your scripts and `day-19-project.md` to `2026/day-19/`
+1. Add your scripts and `day-19-project.md` to `journey/day-19/`
 2. Commit and push to your fork
 
 ---

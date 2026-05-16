@@ -96,7 +96,7 @@ Create `day-10-file-permissions.md`:
 ---
 
 ## Submission
-1. Navigate to `2026/day-10/` folder
+1. Navigate to `journey/day-10/` folder
 2. Add `day-10-file-permissions.md` with screenshots
 3. Commit and push
 

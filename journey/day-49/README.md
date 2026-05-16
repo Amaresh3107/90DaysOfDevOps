@@ -205,7 +205,7 @@ Create `day-49-devsecops.md` with:
 ---
 
 ## Submission
-1. Add `day-49-devsecops.md` to `2026/day-49/`
+1. Add `day-49-devsecops.md` to `journey/day-49/`
 2. Commit and push to your fork
 
 ---

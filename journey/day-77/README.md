@@ -331,7 +331,7 @@ Create `day-77-observability-project.md` with:
 ---
 
 ## Submission
-1. Add `day-77-observability-project.md` to `2026/day-77/`
+1. Add `day-77-observability-project.md` to `journey/day-77/`
 2. Commit and push to your fork
 
 ---

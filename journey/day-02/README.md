@@ -62,7 +62,7 @@ This knowledge saves hours during incidents.
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository  
-2. Navigate to the `2026/day-02/` folder  
+2. Navigate to the `journey/day-02/` folder  
 3. Add your `linux-architecture-notes.md` file  
 4. Commit and push your changes to your fork  
 

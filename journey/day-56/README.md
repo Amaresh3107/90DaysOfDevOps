@@ -121,7 +121,7 @@ Create `day-56-statefulsets.md` with:
 ---
 
 ## Submission
-1. Add `day-56-statefulsets.md` to `2026/day-56/`
+1. Add `day-56-statefulsets.md` to `journey/day-56/`
 2. Commit and push to your fork
 
 ---

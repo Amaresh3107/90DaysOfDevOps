@@ -89,7 +89,7 @@ Create `day-18-scripting.md` with:
 ---
 
 ## Submission
-1. Add your scripts and `day-18-scripting.md` to `2026/day-18/`
+1. Add your scripts and `day-18-scripting.md` to `journey/day-18/`
 2. Commit and push to your fork
 
 ---

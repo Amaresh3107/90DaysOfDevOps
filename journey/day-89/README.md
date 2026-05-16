@@ -335,13 +335,13 @@ Create `day-89-kubehealer-aiops.md` with:
 ---
 
 ## Submission
-1. Add `day-89-kubehealer-aiops.md` to `2026/day-89/`
+1. Add `day-89-kubehealer-aiops.md` to `journey/day-89/`
 2. Commit and push to your fork
 
 ---
 
 ## Learn in Public
-Share on LinkedIn: "Built KubeHealer today -- a production-grade AI agent that scans Kubernetes for broken pods, diagnoses root causes using Claude, proposes fixes, and applies them with human approval. Deployed 3 intentionally broken apps: image typo, OOM crash, missing ConfigMap. The agent fixed the first two automatically and correctly escalated the third. Tested crash recovery with Temporal -- killed the agent mid-diagnosis, restarted it, and it resumed exactly where it left off. This is what AIOps looks like in 2026."
+Share on LinkedIn: "Built KubeHealer today -- a production-grade AI agent that scans Kubernetes for broken pods, diagnoses root causes using Claude, proposes fixes, and applies them with human approval. Deployed 3 intentionally broken apps: image typo, OOM crash, missing ConfigMap. The agent fixed the first two automatically and correctly escalated the third. Tested crash recovery with Temporal -- killed the agent mid-diagnosis, restarted it, and it resumed exactly where it left off. This is what AIOps looks like in journey."
 
 `#90DaysOfDevOps` `#DevOpsKaJosh` `#TrainWithShubham`
 

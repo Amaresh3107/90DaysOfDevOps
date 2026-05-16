@@ -422,7 +422,7 @@ Create `day-72-ansible-project.md` with:
 ---
 
 ## Submission
-1. Add `day-72-ansible-project.md` to `2026/day-72/`
+1. Add `day-72-ansible-project.md` to `journey/day-72/`
 2. Commit and push to your fork
 
 ---

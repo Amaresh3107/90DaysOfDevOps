@@ -77,7 +77,7 @@ Create `day-41-triggers.md` with:
 ---
 
 ## Submission
-1. Add `day-41-triggers.md` to `2026/day-41/`
+1. Add `day-41-triggers.md` to `journey/day-41/`
 2. Commit and push to your fork
 
 ---

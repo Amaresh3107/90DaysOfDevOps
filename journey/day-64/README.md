@@ -200,7 +200,7 @@ Create `day-64-state-management.md` with:
 ---
 
 ## Submission
-1. Add `day-64-state-management.md` to `2026/day-64/`
+1. Add `day-64-state-management.md` to `journey/day-64/`
 2. Commit and push to your fork
 
 ---

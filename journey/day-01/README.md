@@ -76,7 +76,7 @@ A clear plan:
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository  
-2. Navigate to the `2026/day-01/` folder  
+2. Navigate to the `journey/day-01/` folder  
 3. Add your `learning-plan.md` file  
 4. Commit and push your changes to your fork  
 

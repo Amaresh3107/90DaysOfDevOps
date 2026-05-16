@@ -422,7 +422,7 @@ Create `day-88-multi-tool-mcp.md` with:
 ---
 
 ## Submission
-1. Add `day-88-multi-tool-mcp.md` to `2026/day-88/`
+1. Add `day-88-multi-tool-mcp.md` to `journey/day-88/`
 2. Commit and push to your fork
 
 ---

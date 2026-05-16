@@ -161,7 +161,7 @@ terraform console
 
 1. **String functions:**
    - `upper("terraweek")` -> `"TERRAWEEK"`
-   - `join("-", ["terra", "week", "2026"])` -> `"terra-week-2026"`
+   - `join("-", ["terra", "week", "journey"])` -> `"terra-week-journey"`
    - `format("arn:aws:s3:::%s", "my-bucket")`
 
 2. **Collection functions:**
@@ -205,7 +205,7 @@ Create `day-63-variables-outputs.md` with:
 ---
 
 ## Submission
-1. Add `day-63-variables-outputs.md` to `2026/day-63/`
+1. Add `day-63-variables-outputs.md` to `journey/day-63/`
 2. Commit and push to your fork
 
 ---

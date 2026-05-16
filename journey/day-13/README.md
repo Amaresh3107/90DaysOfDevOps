@@ -82,7 +82,7 @@ Create `day-13-lvm.md` with:
 ---
 
 ## Submission
-1. Add your `day-13-lvm.md` to `2026/day-13/`
+1. Add your `day-13-lvm.md` to `journey/day-13/`
 2. Commit and push
 
 ---

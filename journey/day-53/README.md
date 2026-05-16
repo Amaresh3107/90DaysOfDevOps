@@ -302,7 +302,7 @@ Create `day-53-services.md` with:
 ---
 
 ## Submission
-1. Add `day-53-services.md` and your YAML files to `2026/day-53/`
+1. Add `day-53-services.md` and your YAML files to `journey/day-53/`
 2. Commit and push to your fork
 
 ---

@@ -80,7 +80,7 @@ These habits reduce downtime and prevent guesswork in production.
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository  
-2. Navigate to the `2026/day-05/` folder  
+2. Navigate to the `journey/day-05/` folder  
 3. Add your `linux-troubleshooting-runbook.md` file  
 4. Commit and push your changes to your fork  
 

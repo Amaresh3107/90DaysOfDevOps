@@ -119,7 +119,7 @@ These are core skills for any DevOps engineer working in production.
 
 ## Submission
 1. Fork this `90DaysOfDevOps` repository
-2. Navigate to the `2026/day-08/` folder
+2. Navigate to the `journey/day-08/` folder
 3. Add your `day-08-cloud-deployment.md` file
 4. Add your `nginx-logs.txt` file
 5. Add screenshots (name them: `ssh-connection.png`, `nginx-webpage.png`, `docker-nginx.png`)

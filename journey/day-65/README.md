@@ -236,7 +236,7 @@ Create `day-65-modules.md` with:
 ---
 
 ## Submission
-1. Add `day-65-modules.md` to `2026/day-65/`
+1. Add `day-65-modules.md` to `journey/day-65/`
 2. Commit and push to your fork
 
 ---

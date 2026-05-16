@@ -62,7 +62,7 @@ Example output:
 ---
 
 ### Task 5: Summary Report
-Generate a summary report to a text file named `log_report_<date>.txt` (e.g., `log_report_2026-02-11.txt`). The report should include:
+Generate a summary report to a text file named `log_report_<date>.txt` (e.g., `log_report_journey-02-11.txt`). The report should include:
 1. Date of analysis
 2. Log file name
 3. Total lines processed
@@ -109,7 +109,7 @@ Create `day-20-solution.md` with:
 ---
 
 ## Submission
-1. Add your scripts and `day-20-solution.md` to `2026/day-20/`
+1. Add your scripts and `day-20-solution.md` to `journey/day-20/`
 2. Commit and push to your fork
 
 ---

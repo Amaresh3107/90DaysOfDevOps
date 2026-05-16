@@ -105,7 +105,7 @@ Create `day-58-metrics-hpa.md` with:
 ---
 
 ## Submission
-1. Add `day-58-metrics-hpa.md` to `2026/day-58/`
+1. Add `day-58-metrics-hpa.md` to `journey/day-58/`
 2. Commit and push to your fork
 
 ---

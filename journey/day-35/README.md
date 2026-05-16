@@ -74,7 +74,7 @@ Check the size before and after.
 ---
 
 ## Submission
-1. Add your Dockerfiles and `day-35-multistage-hub.md` to `2026/day-35/`
+1. Add your Dockerfiles and `day-35-multistage-hub.md` to `journey/day-35/`
 2. Include the link to your Docker Hub repo
 3. Commit and push to your fork
 

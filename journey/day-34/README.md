@@ -72,7 +72,7 @@ Write a simple Dockerfile for the web app. The app doesn't need to be complex â€
 ---
 
 ## Submission
-1. Add your compose files, Dockerfiles, and `day-34-compose-advanced.md` to `2026/day-34/`
+1. Add your compose files, Dockerfiles, and `day-34-compose-advanced.md` to `journey/day-34/`
 2. Commit and push to your fork
 
 ---

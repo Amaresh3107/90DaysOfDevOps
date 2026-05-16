@@ -335,7 +335,7 @@ Create `day-75-loki-promtail.md` with:
 ---
 
 ## Submission
-1. Add `day-75-loki-promtail.md` to `2026/day-75/`
+1. Add `day-75-loki-promtail.md` to `journey/day-75/`
 2. Commit and push to your fork
 
 ---

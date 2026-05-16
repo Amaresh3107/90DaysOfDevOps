@@ -430,7 +430,7 @@ Create `day-76-otel-alerting.md` with:
 ---
 
 ## Submission
-1. Add `day-76-otel-alerting.md` to `2026/day-76/`
+1. Add `day-76-otel-alerting.md` to `journey/day-76/`
 2. Commit and push to your fork
 
 ---

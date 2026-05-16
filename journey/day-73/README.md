@@ -282,7 +282,7 @@ Create `day-73-observability-prometheus.md` with:
 ---
 
 ## Submission
-1. Add `day-73-observability-prometheus.md` to `2026/day-73/`
+1. Add `day-73-observability-prometheus.md` to `journey/day-73/`
 2. Commit and push to your fork
 
 ---

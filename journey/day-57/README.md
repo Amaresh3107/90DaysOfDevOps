@@ -111,7 +111,7 @@ Create `day-57-resources-probes.md` with:
 ---
 
 ## Submission
-1. Add `day-57-resources-probes.md` to `2026/day-57/`
+1. Add `day-57-resources-probes.md` to `journey/day-57/`
 2. Commit and push to your fork
 
 ---

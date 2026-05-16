@@ -70,7 +70,7 @@ Pick **2 topics** you marked as shaky and redo the hands-on tasks from that day.
 ---
 
 ## Submission
-1. Add `docker-cheatsheet.md` and `day-37-revision.md` to `2026/day-37/`
+1. Add `docker-cheatsheet.md` and `day-37-revision.md` to `journey/day-37/`
 2. Commit and push to your fork
 
 ---

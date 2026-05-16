@@ -330,7 +330,7 @@ Create `day-86-gitops-project.md` with:
 ---
 
 ## Submission
-1. Add `day-86-gitops-project.md` to `2026/day-86/`
+1. Add `day-86-gitops-project.md` to `journey/day-86/`
 2. Commit and push to your fork
 
 ---

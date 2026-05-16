@@ -176,8 +176,8 @@ argocd app history bankapp
 Output:
 ```
 ID  DATE                 REVISION
-1   2026-04-10 10:00:00  abc1234
-2   2026-04-10 10:15:00  def5678   (sync wave annotations)
+1   journey-04-10 10:00:00  abc1234
+2   journey-04-10 10:15:00  def5678   (sync wave annotations)
 ```
 
 **Rollback to a previous revision:**
@@ -474,7 +474,7 @@ Create `day-85-argocd-deep-dive.md` with:
 ---
 
 ## Submission
-1. Add `day-85-argocd-deep-dive.md` to `2026/day-85/`
+1. Add `day-85-argocd-deep-dive.md` to `journey/day-85/`
 2. Commit and push to your fork
 
 ---

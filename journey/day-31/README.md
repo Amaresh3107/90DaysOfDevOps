@@ -81,7 +81,7 @@ Build and run it. Understand what each line does.
 ---
 
 ## Submission
-1. Add your Dockerfiles and `day-31-dockerfile.md` to `2026/day-31/`
+1. Add your Dockerfiles and `day-31-dockerfile.md` to `journey/day-31/`
 2. Commit and push to your fork
 
 ---

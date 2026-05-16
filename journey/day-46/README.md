@@ -118,7 +118,7 @@ Create `day-46-reusable-workflows.md` with:
 ---
 
 ## Submission
-1. Add `day-46-reusable-workflows.md` to `2026/day-46/`
+1. Add `day-46-reusable-workflows.md` to `journey/day-46/`
 2. Commit and push to your fork
 
 ---

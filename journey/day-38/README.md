@@ -102,7 +102,7 @@ Create `day-38-yaml.md` with:
 ---
 
 ## Submission
-1. Add your YAML files and `day-38-yaml.md` to `2026/day-38/`
+1. Add your YAML files and `day-38-yaml.md` to `journey/day-38/`
 2. Commit and push to your fork
 
 ---

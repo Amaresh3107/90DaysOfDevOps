@@ -397,7 +397,7 @@ Create `day-82-eks-networking-storage.md` with:
 ---
 
 ## Submission
-1. Add `day-82-eks-networking-storage.md` to `2026/day-82/`
+1. Add `day-82-eks-networking-storage.md` to `journey/day-82/`
 2. Commit and push to your fork
 
 ---

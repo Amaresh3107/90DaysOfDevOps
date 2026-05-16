@@ -82,7 +82,7 @@ Create `day-39-cicd-concepts.md` with:
 ---
 
 ## Submission
-1. Add your `day-39-cicd-concepts.md` to `2026/day-39/`
+1. Add your `day-39-cicd-concepts.md` to `journey/day-39/`
 2. Commit and push to your fork
 
 ---

@@ -102,7 +102,7 @@ For **every repo**, make sure you have:
 ---
 
 ## Submission
-1. Add your `day-27-notes.md` (with before/after screenshots) to `2026/day-27/`
+1. Add your `day-27-notes.md` (with before/after screenshots) to `journey/day-27/`
 2. Share the link to your updated GitHub profile
 3. Push to your fork
 

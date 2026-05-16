@@ -138,7 +138,7 @@ Create `day-62-providers-resources.md` with:
 ---
 
 ## Submission
-1. Add `day-62-providers-resources.md` to `2026/day-62/`
+1. Add `day-62-providers-resources.md` to `journey/day-62/`
 2. Commit and push to your fork
 
 ---

@@ -53,7 +53,7 @@ Pick one target service/host (e.g., `google.com`, your lab server, or a local se
 ---
 
 ## Submission
-1. Add `day-14-networking.md` to `2026/day-14/`
+1. Add `day-14-networking.md` to `journey/day-14/`
 2. Commit and push to your fork
 
 ---

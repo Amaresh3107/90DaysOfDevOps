@@ -271,7 +271,7 @@ Create `day-66-eks-terraform.md` with:
 ---
 
 ## Submission
-1. Add `day-66-eks-terraform.md` to `2026/day-66/`
+1. Add `day-66-eks-terraform.md` to `journey/day-66/`
 2. Commit and push to your fork
 
 ---

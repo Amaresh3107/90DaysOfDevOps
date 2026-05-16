@@ -343,7 +343,7 @@ Create `day-84-gitops-argocd.md` with:
 ---
 
 ## Submission
-1. Add `day-84-gitops-argocd.md` to `2026/day-84/`
+1. Add `day-84-gitops-argocd.md` to `journey/day-84/`
 2. Commit and push to your fork
 
 ---

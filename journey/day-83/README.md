@@ -397,7 +397,7 @@ Create `day-83-eks-project.md` with:
 ---
 
 ## Submission
-1. Add `day-83-eks-project.md` to `2026/day-83/`
+1. Add `day-83-eks-project.md` to `journey/day-83/`
 2. Commit and push to your fork
 
 ---

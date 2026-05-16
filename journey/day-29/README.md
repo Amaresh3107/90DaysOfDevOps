@@ -71,7 +71,7 @@ Docker is the foundation of modern deployment. Every CI/CD pipeline, Kubernetes 
 ---
 
 ## Submission
-1. Add your `day-29-docker-basics.md` to `2026/day-29/`
+1. Add your `day-29-docker-basics.md` to `journey/day-29/`
 2. Commit and push to your fork
 
 ---

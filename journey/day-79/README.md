@@ -638,7 +638,7 @@ Create `day-79-custom-charts.md` with:
 ---
 
 ## Submission
-1. Add `day-79-custom-charts.md` to `2026/day-79/`
+1. Add `day-79-custom-charts.md` to `journey/day-79/`
 2. Commit and push to your fork
 
 ---

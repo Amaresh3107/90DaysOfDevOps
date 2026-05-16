@@ -74,7 +74,7 @@ In your `devops-git-practice` repo, perform the following:
 ---
 
 ## Submission
-1. Add your `day-23-notes.md` to `2026/day-23/`
+1. Add your `day-23-notes.md` to `journey/day-23/`
 2. Update `git-commands.md` with all new commands and commit
 3. Push to your fork
 

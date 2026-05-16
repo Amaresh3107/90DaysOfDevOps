@@ -143,7 +143,7 @@ terraform destroy
 ---
 
 ## Hints
-- S3 bucket names must be globally unique -- use something like `terraweek-<yourname>-2026`
+- S3 bucket names must be globally unique -- use something like `terraweek-<yourname>-journey`
 - AMI IDs are region-specific -- search "Amazon Linux 2 AMI" in your region's EC2 launch wizard
 - `terraform fmt` auto-formats your `.tf` files -- run it before committing
 - `terraform validate` checks for syntax errors without connecting to AWS
@@ -163,7 +163,7 @@ Create `day-61-terraform-intro.md` with:
 ---
 
 ## Submission
-1. Add `day-61-terraform-intro.md` to `2026/day-61/`
+1. Add `day-61-terraform-intro.md` to `journey/day-61/`
 2. Commit and push to your fork
 
 ---

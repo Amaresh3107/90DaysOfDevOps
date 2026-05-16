@@ -255,7 +255,7 @@ Create `day-52-namespaces-deployments.md` with:
 ---
 
 ## Submission
-1. Add `day-52-namespaces-deployments.md` and your YAML files to `2026/day-52/`
+1. Add `day-52-namespaces-deployments.md` and your YAML files to `journey/day-52/`
 2. Commit and push to your fork
 
 ---

@@ -231,7 +231,7 @@ Tag: `#90DaysOfDevOps` `#DevOpsKaJosh` `#TrainWithShubham`
 ---
 
 ## Submission
-1. Add `day-90-graduation.md` to `2026/day-90/`
+1. Add `day-90-graduation.md` to `journey/day-90/`
 2. Commit and push to your fork
 3. Share on LinkedIn
 
